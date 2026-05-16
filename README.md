@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tunombre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tayro-arce"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tayroarce@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -40,6 +40,7 @@ I'm looking for my first professional opportunity where I can contribute, learn 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 **Tools**
@@ -49,12 +50,17 @@ I'm looking for my first professional opportunity where I can contribute, learn 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tayroarce-lab&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayroarce-lab&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tayroarce-lab&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tayroarce-lab&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tayroarce-lab&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -62,5 +68,5 @@ I'm looking for my first professional opportunity where I can contribute, learn 
 <p align="center">
   <em>Looking for my first opportunity as a Full Stack developer. Let's build something great together.</em>
   <br /><br />
-  <a href="https://linkedin.com/in/tayro-arce">LinkedIn</a> · <a href="mailto:tayroarce@gmail.com">Email</a> 
+  <a href="https://linkedin.com/in/tayro-arce">LinkedIn</a> · <a href="mailto:tayroarce@gmail.com">Email</a>
 </p>
