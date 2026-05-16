@@ -53,8 +53,8 @@ I'm looking for my first professional opportunity where I can contribute, learn 
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TUNOMBREDEUSUARIO&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUNOMBREDEUSUARIO&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tayroarce-lab&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayroarce-lab&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
