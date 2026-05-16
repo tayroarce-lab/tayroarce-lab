@@ -62,5 +62,5 @@ I'm looking for my first professional opportunity where I can contribute, learn 
 <p align="center">
   <em>Looking for my first opportunity as a Full Stack developer. Let's build something great together.</em>
   <br /><br />
-  <a href="https://linkedin.com/in/tunombre">LinkedIn</a> · <a href="mailto:tuemail@gmail.com">Email</a> · <a href="https://tuportafolio.dev">Portfolio</a>
+  <a href="https://linkedin.com/in/tayro-arce">LinkedIn</a> · <a href="mailto:tayroarce@gmail.com">Email</a> 
 </p>
