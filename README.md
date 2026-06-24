@@ -49,7 +49,7 @@ I am a product-driven developer specializing in building modern web applications
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### 🤖 AI, Automation & Marketing Tech
+### 🤖 AI Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta_Ecosystem_&_Ads-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
