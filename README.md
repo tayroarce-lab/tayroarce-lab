@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Full Stack Developer & AI Automation Builder</strong>
   <br />
-  I build production-ready web products and self-hosted AI automation pipelines for business operations.
+  I build production-ready web products and AI automation pipelines for business operations.
   <br /><br />
   🟢 <strong>Open to Work</strong> &nbsp;·&nbsp; 🇨🇷 Based in Costa Rica
 </p>
@@ -21,7 +21,7 @@
 
 ## ⚡ Executive Summary
 
-I am a product-driven developer specializing in building modern web applications and scaling B2B automation systems. I bridge the gap between robust full-stack software and intelligent infrastructure, ensuring software isn't just clean, but actively solves business bottlenecks.
+I am a product-driven developer specializing in building modern web applications and scaling automation systems. I bridge the gap between robust full-stack software and intelligent infrastructure, ensuring software isn't just clean, but actively solves business bottlenecks.
 
 - 🚀 Currently scaling: **Plataforma Exalumnos UCR** (Next.js 14 + Supabase RLS + AI ATS Engine).
 - 🛠️ Infrastructure Focus: High-availability self-hosted services and automated integration pipelines.
