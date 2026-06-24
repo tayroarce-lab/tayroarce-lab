@@ -1,98 +1,77 @@
-<h1 align="center">Hey, I'm Tayro 👋</h1>
+<h1 align="center">Hey, I'm Tayro Arce 👋</h1>
 
 <p align="center">
   <strong>Full Stack Developer & AI Automation Builder</strong>
   <br />
-  I build fast, clean products — and automate the repetitive parts with AI.
+  I build production-ready web products and self-hosted AI automation pipelines for business operations.
   <br /><br />
-  🟢 Open to work &nbsp;·&nbsp; 🇨🇷 Based in Costa Rica
+  🟢 <strong>Open to Work</strong> &nbsp;·&nbsp; 🇨🇷 Based in Costa Rica
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/tayro-arce">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tayroarce@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## About me
+## ⚡ Executive Summary
 
-Full Stack developer who builds complete products — from database to UI — and designs **AI-powered automations** that help businesses save time, reduce manual work, and scale smarter.
+I am a product-driven developer specializing in building modern web applications and scaling B2B automation systems. I bridge the gap between robust full-stack software and intelligent infrastructure, ensuring software isn't just clean, but actively solves business bottlenecks.
 
-I'm looking for an opportunity where I can contribute fast, grow alongside a strong team, and build things that actually matter.
-
-- 🔭 Currently building: **Olimpiadas Especiales**
-- 🤖 Currently exploring: AI agents, workflow automation & business process optimization
-- 📫 Reach me at: **tayroarce@gmail.com**
+- 🚀 Currently scaling: **Plataforma Exalumnos UCR** (Next.js 14 + Supabase RLS + AI ATS Engine).
+- 🛠️ Infrastructure Focus: High-availability self-hosting using Docker Swarm and Linux environments.
+- 🎯 Goal: Joining a high-performance engineering team where I can ship code fast and tackle complex architectures.
 
 ---
 
-## 🤖 AI & Automation for Business
+## 🛠️ Tech Stack
 
-I design and implement automation solutions that connect apps, process data, and integrate AI into real business workflows.
+### 🌐 Frontend & Client-Side
+![Next JS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+### 🗄️ Backend, Databases & BaaS
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-**What I build:**
-- 🔗 Multi-step automations connecting CRMs, WhatsApp, email, databases & APIs
-- 🤖 AI agents for lead qualification, customer support & internal ops
-- 📊 Pipelines that extract, clean, and route business data automatically
-- ⚡ Workflow integrations that eliminate repetitive manual tasks
+### 🤖 AI & Workflow Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Meta](https://img.shields.io/badge/WhatsApp_API-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### ⚙️ DevOps & Tooling
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/UbuntuServer-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tayroarce-lab&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tayroarce-lab&layout=compact&theme=default&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tayroarce-lab&theme=default&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <em>Full Stack dev · AI automation builder · Looking for my first big opportunity.</em>
+  <img src="https://github-readme-stats.shion.dev/api?username=tayroarce-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true" data-canonical-src="https://github-readme-stats.shion.dev/api?username=tayroarce-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="max-width: 100%;">
   <br />
-  <em>Let's build something that actually works.</em>
-  <br /><br />
-  <a href="https://linkedin.com/in/tayro-arce">LinkedIn</a> · <a href="mailto:tayroarce@gmail.com">Email</a>
+  <img src="https://streak-stats.demolab.com/?user=tayroarce-lab&theme=dark&hide_border=false" data-canonical-src="https://streak-stats.demolab.com/?user=tayroarce-lab&theme=dark&hide_border=false" style="max-width: 100%;">
+  <br />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tayroarce-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" data-canonical-src="https://github-readme-stats.shion.dev/api/top-langs/?username=tayroarce-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tayroarce-lab&icon=0&color=12" alt="Profile Views" />
 </p>
