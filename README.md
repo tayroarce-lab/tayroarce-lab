@@ -1,96 +1,101 @@
-# Hi, I'm Tayro Arce
+<h1 align="center">Hey, I'm Tayro Arce 👋</h1>
 
-**Full Stack Developer · AI & Automation Engineer**  
-I build production-grade web systems and B2B automation infrastructure.  
-Based in Costa Rica 🇨🇷 — available for remote roles worldwide.
+<p align="center">
+  <strong>Full Stack Developer & AI Automation Engineer</strong>
+  <br />
+  I build production-ready web products and intelligent automation pipelines that optimize business operations.
+  <br /><br />
+  🟢 <strong>Open to Work</strong> &nbsp;·&nbsp; 🇨🇷 Based in Costa Rica
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayro-arce-b0a686372)
-[![Email](https://img.shields.io/badge/tayroarce@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tayroarce@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square)](mailto:tayroarce@gmail.com)
-
----
-
-## What I Build
-
-I work at two layers simultaneously: **application development** and **automation infrastructure**.
-
-On the product side, I build full-stack systems with clean architecture — REST APIs, real-time interfaces, role-based auth, and AI-augmented features. On the infrastructure side, I design and deploy self-hosted automation stacks (n8n + WhatsApp + CRM integrations) that run 24/7 without human intervention.
-
-**Current focus:** Joining an engineering team where I can ship fast, own hard problems, and grow into a senior role.
-
----
-
-## Tech Stack
-
-**Core**  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-**Backend & Data**  
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-
-**Automation & AI**  
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Featured Projects
-
-### 🍔 Chamos House — Restaurant Management SaaS
-> Full-stack order management system with real-time Kitchen Display, WhatsApp ordering bot, and live dashboard.
-
-**Stack:** Node.js · Express · TypeScript · Sequelize · MySQL · Socket.io · React · Vite · Tailwind · Zustand · n8n · Evolution API
-
-| What it solves | Technical highlights |
-|---|---|
-| Eliminates manual order tracking for fast-food operations | Real-time KDS with Socket.io bidirectional sync |
-| WhatsApp → kitchen pipeline, zero phone calls | n8n workflow orchestration for WhatsApp order ingestion |
-| Role-based dashboard for cashier / kitchen / admin | JWT auth · MVC architecture · REST API |
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](#) <!-- ADD LINK -->
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0078D4?style=flat-square&logo=vercel&logoColor=white)](#) <!-- ADD LINK -->
-
----
-
-### 🤖 B2B Automation Infrastructure — WhatsApp + CRM + AI
-> Self-hosted automation stack for dental and healthcare clinics: lead capture, AI-powered follow-up, appointment reminders, and CRM logging — all on WhatsApp.
-
-**Stack:** n8n · Evolution API · Chatwoot · Docker Swarm · PostgreSQL · Redis · OpenAI API · Supabase
-
-| What it solves | Technical highlights |
-|---|---|
-| Manual lead response costing clinics 40–60% of conversions | AI agent personalizes first response in < 2 min |
-| Follow-up sequences with zero human intervention | Multi-step n8n workflows with conditional branching |
-| Client visibility into pipeline status | Supabase as persistent memory layer for AI agents |
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](#) <!-- ADD LINK -->
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tayroarce-lab&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=issues" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayroarce-lab&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/tayro-arce-b0a686372">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tayroarce@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-> *"Good software is not just code that works — it's code that the next developer can understand."*
+## ⚡ Executive Summary
 
-**Let's connect →** [LinkedIn](https://www.linkedin.com/in/tayro-arce-b0a686372) · [tayroarce@gmail.com](mailto:tayroarce@gmail.com)
+I am a product-driven engineer specializing in modern web applications and scalable enterprise automation. I bridge the gap between robust full-stack software and intelligent infrastructure, ensuring code doesn't just pass tests, but directly eliminates operational bottlenecks.
+
+- 📈 **Focus:** High-availability architectures, state-driven backend pipelines, and clean client interfaces.
+- 🛠️ **Infrastructure Focus:** Decoupled self-hosted services, relational data integrity, and secure multi-role access controls.
+- 🎯 **Goal:** Joining a high-performance engineering team where I can ship high-impact code, tackle complex API architectures, and scale systems.
+
+---
+
+## 🎯 Featured Projects (Pinned Below 📌)
+
+### 1. Plataforma Digital Fundación Exalumnos UCR — AI-Driven Talent Matching Engine
+A full-stack MVP designed to bridge the gap between academic talent and market placement by processing and matching alumni profiles using intelligent data pipelines.
+- **The Challenge:** Handling multi-role user flows (admins, students, alumni) with sensitive financial verification and employment documents while maintaining strict data isolation and zero leaks.
+- **The Solution:** Built a Next.js 14 architecture utilizing Server Actions where authentication is verified strictly on the server-side via `@supabase/ssr` to force Row Level Security (RLS) evaluation. Implemented passwordless Magic Links with NextAuth v5 + Resend, and an asynchronous ATS optimization engine that streams real-time customized CV adaptations via Anthropic's Claude Sonnet.
+- **Key Architecture Choice:** Implemented strict server-only Supabase clients to guarantee database-level constraints can never be bypassed via client-side API injections.
+- 🛠️ *Next.js 14 (App Router)* · *TypeScript* · *Supabase (PostgreSQL + RLS)* · *Claude Sonnet API* · *NextAuth v5* · *TailwindCSS*
+
+### 2. Chamos House — Real-Time Kitchen Display (KDS) & Restaurant OS
+A complete digital management ecosystem that digitizes fast-food restaurant operations, eliminating human error from paper notes and manual cash closings.
+- **The Challenge:** Synchronizing real-time asynchronous multi-channel data flows (WhatsApp automated orders, kitchen display updates, and live financial dashboards) without state conflicts or webhook data loss.
+- **The Solution:** Engineered a decoupled backend using Node.js and Express following a strict Layered Architecture (Routes ➔ Controller ➔ Service ➔ Model). Orders are captured via n8n workflows, processed atomically in MySQL, and pushed instantly to a React/Vite Kanban-style KDS board via bidirectional Socket.io events.
+- **Key Architecture Choice:** Implemented immutable historical snapshots in the order details schema (`p_unitario`) to isolate financial data integrity from future master-catalog product price updates.
+- 🛠️ *Node.js* · *Express* · *React (Vite)* · *TypeScript* · *MySQL (Sequelize ORM)* · *Socket.io* · *n8n Automation* · *Zustand*
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend & Client-Side
+![Next JS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+
+### 🗄️ Backend, Databases & State Management
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### 🤖 Automation & Intelligent Infrastructure
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Ecosystem-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### ⚙️ DevOps & Cloud Environment
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/UbuntuServer-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=tayroarce-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="max-width: 100%;">
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=tayroarce-lab&theme=dark&hide_border=false" style="max-width: 100%;">
+  <br />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tayroarce-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tayroarce-lab&icon=0&color=12" alt="Profile Views" />
+</p>
