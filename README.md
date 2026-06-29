@@ -9,9 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tayro-arce-b0a686372">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:tayroarce@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -60,7 +57,7 @@ A complete digital management ecosystem that digitizes fast-food restaurant oper
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&postgresqlColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -87,10 +84,6 @@ A complete digital management ecosystem that digitizes fast-food restaurant oper
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=tayroarce-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="max-width: 100%;">
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=tayroarce-lab&theme=dark&hide_border=false" style="max-width: 100%;">
-  <br />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tayroarce-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
 </p>
 
